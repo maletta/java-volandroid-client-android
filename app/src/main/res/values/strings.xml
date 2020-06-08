@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Volandroid</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="action_settings">Settings</string>
+
+
+    // buttons
+    <string name="bIniciar">Iniciar</string>
+    <string name="bConectar">Conectar</string>
+    <string name="bConfig">Configuração</string>
+    <string name="title_activity_test">Test</string>
+
+</resources>
